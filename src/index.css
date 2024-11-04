@@ -1,0 +1,14 @@
+.border-cstm {
+  border: 1px solid orangered !important;
+}
+
+.color-cstm {
+  color: rgb(254, 102, 46) !important;
+}
+
+.pagination-cstm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 300px !important;
+}
